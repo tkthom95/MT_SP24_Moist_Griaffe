@@ -10,7 +10,6 @@ void setup() {
   pinMode(buttonPin, INPUT);
   pinMode(LED1, OUTPUT);
   pinMode(LED2, OUTPUT);
-
 }
 
 void loop() {
